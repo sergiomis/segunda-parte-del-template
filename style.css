@@ -1,139 +1,337 @@
-#about {
-    width: 1047px;
-    height: 551.01px;
-  }
-  
-  #dropbox {
-    width: 43.99px;
-    height: 42.22px;
-  }
-  
-  #shape {
-    width: 43.99px;
-    height: 42.22px;
-    background: #979797;
-  }
-  
-  #airbnb {
-    width: 137.19px;
-    height: 42.8px;
-  }
-  
-  #shape {
-    width: 137.19px;
-    height: 42.8px;
-    background: #979797;
-  }
-  
-  #google {
-    width: 128.83px;
-    height: 42.25px;
-  }
-  
-  #shape {
-    width: 21.26px;
-    height: 21.12px;
-    background: #979797;
-  }
-  
-  #shape {
-    width: 21.26px;
-    height: 21.12px;
-    background: #979797;
-  }
-  
-  #shape {
-    width: 20.32px;
-    height: 30.58px;
-    background: #979797;
-  }
-  
-  #path {
-    width: 4.54px;
-    height: 30.94px;
-    background: #979797;
-  }
-  
-  #shape {
-    width: 19.55px;
-    height: 21.12px;
-    background: #979797;
-  }
-  
-  #path {
-    width: 32.06px;
-    height: 32.79px;
-    background: #979797;
-  }
-  
-  #personally {
-    width: 467px;
-    height: 120px;
-    font-family: Nunito;
-    font-size: 16px;
-    font-weight: 600;
-    line-height: 30px;
-  }
-  
-  #developmen {
-    width: 172px;
-    height: 30px;
-    font-family: Nunito;
-    font-size: 28px;
-    font-weight: 600;
-    line-height: 30px;
-  }
-  
-  #ifatanytim {
-    width: 500px;
-    height: 150px;
-    font-family: Nunito;
-    font-size: 16px;
-    font-weight: 600;
-    line-height: 30px;
-  }
-  
-  #branding {
-    width: 117px;
-    height: 30px;
-    font-family: Nunito;
-    font-size: 28px;
-    font-weight: 600;
-    line-height: 30px;
-  }
-  
-  #ashumanswe {
-    width: 467px;
-    height: 120px;
-    font-family: Nunito;
-    font-size: 16px;
-    font-weight: 600;
-    line-height: 30px;
-  }
-  
-  #motion {
-    width: 89px;
-    height: 30px;
-    font-family: Nunito;
-    font-size: 28px;
-    font-weight: 600;
-    line-height: 30px;
-  }
-  
-  #ofcoursemo {
-    width: 467px;
-    height: 90px;
-    font-family: Nunito;
-    font-size: 16px;
-    font-weight: 600;
-    line-height: 30px;
-  }
-  
-  #uXUI {
-    width: 75px;
-    height: 30px;
-    font-family: Nunito;
-    font-size: 28px;
-    font-weight: 600;
-    line-height: 30px;
-  }
+.icon1 {
+  position: absolute;
+  width: 52px;
+  height: 52px;
+  left: 650px;
+  margin-top: -10px;
+}
+.barra{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 100px;
+}
+.barra1{
+  color: #007FFF;
+  margin-left: -1005px;
+  position: absolute;
+}
+.barra2{
+  color: #007FFF;
+  position: absolute;
+  margin-left: -680px;
+}
+.barra3{
+  color: #007FFF;
+  position: absolute;
+  margin-left: 709px;
+}
+.barra4{
+  color: #007FFF;
+  position: absolute;
+  margin-left: 1035px;
+}
+.tituloss{
+  justify-content: center;
+  display: flex;
+  margin-top: 100px;
+}
+.titulo0{
+  margin-left: 70px;
+}
+.titulos{
+  color: #007FFF;
+  margin-left: 150px;
+  margin-top: -49px;
+}
+.logos{
+  display: flex;
+}
+.logosss{
+  display: flex;
+  margin-top: 20px;
+}
+.logito1{
+  margin-left: 40em;
+}
+.logito2{
+  margin-left: 20px;
+}
+.logito3{
+  margin-left: 20px;
+}
+.imagenes{
+  display: flex;
+  margin-top: 100px;
+}
+.imagen1{
+  margin-left: 146px;
+  width: 520px;
+  height: 505px;
+}
+.imagen2{
+  margin-left: 45px;
+  width: 520px;
+  height: 737px;
+}
+.imagenes2{
+  display: flex;
+}
+.imagen3{
+  margin-left: 146px;
+  margin-top: -172px;
+  width: 520px;
+  height: 667px;
+}
+.imagen4{
+  margin-left: 45px;
+  margin-top: 60px;
+  width: 520px;
+  height: 435px;
+}
+.barritaamarillita2 button{
+  background-color: #FFE300;
+  border-color: #FFE300;
+  border-radius: 200px;
+  width: 105px;
+}
+.barritaamarillita2{
+  margin-top: -180px;
+  margin-left: 65px;
+}
+.barritaamarilla button{
+  margin-left: 65px;
+  background-color: #FFE300;
+  border-color: #FFE300;
+  border-radius: 200px;
+  width: 105px;
+}
+.barritaamarilla{
+  margin-top: -200px;
+}
+.texto1{
+  margin-left: 64px;
+  margin-top: 20px;
+  color: white;
+}
+.texto2{
+  margin-left: 64px;
+  margin-top: -10px;
+  color: white;
+}
+.texto3{
+  margin-left: 64px;
+  margin-top: -10px;
+  color: white;
+}
+.texto10{
+  margin-left: -455px;
+  margin-top: 610px;
+  color: white;
+}
+.texto20{
+  margin-left: -455px;
+  margin-top: -10px;
+  color: white;
+}
+.texto100{
+  margin-left: -455px;
+  margin-top: 330px;
+  color: white;
+}
+.texto200{
+  margin-left: -455px;
+  margin-top: -10px;
+  color: white;
+}
+.texto300{
+  margin-left: -455px;
+  margin-top: -10px;
+  color: white;
+}
+.texto10000{
+  margin-left: -455px;
+  margin-top: 360px;
+  color: white;
+}
+.texto20000{
+  margin-left: -455px;
+  margin-top: -10px;
+  color: white;
+}
+.titulo20{
+  margin-left: 145px;
+  margin-top: 100px; 
+}
+.titulo30{
+  margin-left: 710px;
+  margin-top: -163px;
+}
+.parrafos{
+  margin-top: 25px;
+}
+.parrafos2{
+  margin-top: -10px;
+}
+.parrafos3{
+  margin-top: -10px;
+}
+.parrafoss10{
+  margin-top: 23px;
+}
+.parrafoss20{
+  margin-top: -10px;
+}
+.parrafoss30{
+  margin-top: -10px;
+}
+.parrafoss40{
+  margin-top: -10px;
+}
+.titulo200{
+  margin-left: 145px;
+  margin-top: 100px;
+}
+.parrafosss10{
+  margin-top: 25px;
+}
+.parrafosss20{
+  margin-top: -10px;
+}
+.parrafosss30{
+  margin-top: -10px;
+}
+.parrafosss40{
+  margin-top: -10px;
+}
+.parrafosss50{
+  margin-top: -10px;
+}
+.titulos201{
+  margin-left: 710px;
+  margin-top: -223px;
+}
+.parrafos202{
+  margin-top: 23px;
+}
+.parrafos203{
+  margin-top: -10px;
+}
+.parrafos204{
+  margin-top: -10px;
+}
+.parrafos205{
+  margin-top: -10px;
+}
+.logos000{
+  display: flex;
+  margin-top: 100px;
+}
+.logos-google{
+  margin-left: 145px;
+}
+.logos-airbnb{
+  margin-left: 136px;
+}
+.logos-dropbox{
+  margin-left: 138px;
+}
+.letriya-azul{
+  margin-left: 145px;
+  margin-top: 100px;
+}
+.numeros{
+  margin-left: 490px;
+  margin-top: -160px;
+}
+
+.letras-azules{
+  margin-left: 565px;
+  margin-top: -161px;
+}
+.letras-azul1{
+  color: #007FFF;
+}
+.letras-azul2{
+  color: #007FFF;
+}
+.letras-azul3{
+  color: #007FFF;
+}
+.letras-azul4{
+  color: #007FFF;
+}
+
+.numeros-numeros{
+  margin-left: 485px;
+  margin-top: -120px;
+}
+.final{
+  margin-left: 145px;
+  margin-top: 250px;
+}
+.parrafo-finales{
+  margin-top: 80px;
+}
+.parrafi-final2{
+  margin-top: -10px;
+}
+.parrafi-final3{
+  margin-top: -10px;
+}
+.parrafi-final4{
+  margin-top: -10px;
+}
+.barraaa{
+  margin-left: 277px;
+  margin-top: -135px;
+}
+.barraaa2{
+  margin-top: -5px;
+  color: #CFCFCF;
+}
+.linea{
+  margin-top: -4px;
+}
+.barraaa3{
+  color: #CFCFCF;
+}
+.barraaa1{
+  margin-left: 277px;
+}
+.barraaa5{
+  margin-left: 277px;
+}
+.barraaa4{
+  color: #CFCFCF;
+}
+.linea3{
+  margin-top: 80px;
+}
+.logosss1000{
+  display: flex;
+  margin-left: 145px;
+  margin-top: 30px;
+}
+
+.logito22{
+  margin-left: 20px;
+}
+.logito33{
+  margin-left: 20px;
+}
+.ultimo{
+  margin-left: 167px;
+  margin-top: -175px;
+}
+.termino{
+  margin-left: 145px;
+  margin-top: 150px;
+}
+.termino2{
+  margin-left: 600px;
+  margin-top: -40px;
+}
+.termino3{
+  margin-left: 850px;
+  margin-top: -40px;
+}
